@@ -1,0 +1,5 @@
+patient_id,age,sex,diagnosis,treatment,visit_date,ae_reported
+P001,45,F,Chronic Sinusitis,Dupixent,2023-06-01,No
+P002,52,M,Nasal Polyps,Xolair,2023-06-03,Yes
+P003,39,F,Allergic Rhinitis,Immunotherapy,2023-06-10,No
+P004,61,M,Chronic Sinusitis,Nucala,2023-06-15,No
